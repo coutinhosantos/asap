@@ -16,4 +16,10 @@ O microserviço consiste em criar uma api de cadastro de Vendedores
 
 - Uma collection foi disponibilizada para teste, caso deseje testar a aplicação pela collection a mesma está disponivel [aqui](https://github.com/coutinhosantos/asap/blob/master/asap/postman/ASAP.postman_collection.json)
 
-![microservice-app-example](https://user-images.githubusercontent.com/1905821/34918427-a931d84e-f952-11e7-85a0-ace34a2e8edb.png)
+![postman](https://github.com/coutinhosantos/asap/blob/master/asap/postman/imagem_postman.png)
+
+#### Via Swagger
+
+- Após iniciar aplicação, é possivel visualizar e testar a aplicação via [Swagger](http://localhost:8080/swagger-ui/index.html)
+
+![swagger](https://github.com/coutinhosantos/asap/blob/master/asap/postman/swagger.png)
